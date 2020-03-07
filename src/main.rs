@@ -8,6 +8,6 @@ fn passing() {
 }
 
 #[test]
-fn failing() {
-    assert_eq!(2 + 3, 4);
+fn passing_2() {
+    assert_ne!(2 + 3, 4);
 }
