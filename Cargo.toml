@@ -3,6 +3,7 @@ name = "docker-test-for-trying-out-jenkins"
 version = "0.1.0"
 authors = ["Ozaren <krishna.sd.2012@gmail.com>"]
 edition = "2018"
+License = "MIT/Apache 2.0"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
